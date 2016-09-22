@@ -1,5 +1,5 @@
 {
-  "name": "@segment/analytics.js-integration-adroll",
+  "name": "@astronomerio/analytics.js-integration-adroll",
   "description": "The Adroll analytics.js integration.",
   "version": "2.2.0",
   "keywords": [
